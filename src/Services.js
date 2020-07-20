@@ -30,7 +30,7 @@ export const Services = () => {
         <div>
             <div className="servicesContainer1">
                 <Tada>
-                <img src={CloudComputing} alt="image" height="40%" />
+                <img src={CloudComputing} alt="image1" height="40%" />
                 </Tada>
                 <div>
                     <Zoom>
@@ -58,13 +58,13 @@ export const Services = () => {
                     </Jello>
                 </div>
                 <Rotate>
-                <img src={ComputerSystem} alt="image" height="40%" />
+                <img src={ComputerSystem} alt="image2" height="40%" />
                 </Rotate>
             </div>
 
             <div className="servicesContainer1">
                 <Rotate>
-                <img src={EarthTravel} alt="image" height="40%" />
+                <img src={EarthTravel} alt="image3" height="40%" />
                 </Rotate>
                 <div>
                     <Flash>
@@ -93,13 +93,13 @@ export const Services = () => {
                 </Bounce>
                 </div>
                 <Flip>
-                <img src={Factory1} alt="image" height="40%" />
+                <img src={Factory1} alt="image4" height="40%" />
                 </Flip>
             </div>
 
             <div className="servicesContainer1">
                 <LightSpeed>
-                <img src={Factory2} alt="image" height="40%" />
+                <img src={Factory2} alt="image5" height="40%" />
                 </LightSpeed>
                 <div>
                     <Jello>
@@ -126,13 +126,13 @@ export const Services = () => {
                 </Flash>
                 </div>
                 <Spin>
-                <img src={Infographic} alt="image" height="40%" />
+                <img src={Infographic} alt="image6" height="40%" />
                 </Spin>
             </div>
 
             <div className="servicesContainer1">
                 <Tada>
-                <img src={NetworkComputer} alt="image" height="40%" />
+                <img src={NetworkComputer} alt="image7" height="40%" />
                 </Tada>
                 <div>
                     <Jump>

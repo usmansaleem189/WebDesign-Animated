@@ -1,40 +1,33 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import InputLabel from '@material-ui/core/InputLabel';
-import FormHelperText from '@material-ui/core/FormHelperText';
+// import InputLabel from '@material-ui/core/InputLabel';
+// import FormHelperText from '@material-ui/core/FormHelperText';
 import FormControl from '@material-ui/core/FormControl';
-import Select from '@material-ui/core/Select';
+// import Select from '@material-ui/core/Select';
 import NativeSelect from '@material-ui/core/NativeSelect';
 import './../App.css';
 
 
-const useStyles = makeStyles((theme) => ({
-  formControl: {
-    // margin: theme.spacing(1),
-    // minWidth: 120,
-    color: 'lightBlue',
-    position: 'relative',
-    top: '30%',
-    right: '0%',
-    // boxSizing: "border-box"
-    display: 'flex',
-    justifyContent: 'space-evenly',
+// const useStyles = makeStyles((theme) => ({
+//   formControl: {
+//     color: 'lightBlue',
+//     position: 'relative',
+//     top: '30%',
+//     right: '0%',
+//     display: 'flex',
+//     justifyContent: 'space-evenly',
     
 
  
-  },
-  selectEmpty: {
-    // marginTop: theme.spacing(2),
-    color: 'Blue' ,
-    fontSize: 'small'
-    // position: 'relative',
-    // bottom: 0,
-    // backgroundColor: 'black',
-  },
-}));
+//   },
+//   selectEmpty: {
+//     color: 'Blue' ,
+//     fontSize: 'small'
+//   },
+// }));
 
 export default function MenuComponent() {
-  const classes = useStyles();
+  // const classes = useStyles();
   const [state, setState] = React.useState({
     age: '',
     name: 'hai',
