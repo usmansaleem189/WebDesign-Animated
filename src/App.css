@@ -89,6 +89,7 @@ background-color: gray;
   border-bottom: 3px solid blue;
   box-sizing: border-box;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .slideShowContainer h2{
