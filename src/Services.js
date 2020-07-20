@@ -11,16 +11,16 @@ import NetworkComputer from './gifs/Network-Computer.png';
 import Zoom from 'react-reveal/Zoom';
 import Rotate from 'react-reveal/Rotate';
 import Bounce from 'react-reveal/Bounce';
-import Reveal from 'react-reveal/Reveal';
+// import Reveal from 'react-reveal/Reveal';
 import Jello from 'react-reveal/Jello';
 import Spin from 'react-reveal/Spin';
 import Tada from 'react-reveal/Tada';
-import Swing from 'react-reveal/Swing';
+// import Swing from 'react-reveal/Swing';
 // import Rotate from 'react-reveal/Rotate';
 import Flip from 'react-reveal/Flip';
 import Jump from 'react-reveal/Jump';
 import Flash from 'react-reveal/Flash';
-import Fade from 'react-reveal/Fade';
+// import Fade from 'react-reveal/Fade';
 import LightSpeed from 'react-reveal/LightSpeed';
 
 

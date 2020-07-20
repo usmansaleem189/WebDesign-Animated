@@ -1,6 +1,6 @@
 import React from 'react';
 import WebDesign from './gifs/WebDesign.png';
-import Flip from 'react-reveal/Flip';
+// import Flip from 'react-reveal/Flip';
 import Tada from 'react-reveal/Tada';
 
 
