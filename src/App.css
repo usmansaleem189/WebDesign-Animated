@@ -225,6 +225,10 @@ margin: auto 0;
   width: 100%;
   }
 
+  .slideShowContainer img{
+width: 100%;
+    }
+
   /* .servicesContainer1 {
   flex-direction: column;
   } */
